@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-// Trial branch for syncing to Visual Studio
+//Running with a test branch
 namespace Help
 {
     public partial class Form1 : Form
